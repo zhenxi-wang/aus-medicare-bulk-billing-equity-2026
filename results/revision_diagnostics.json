@@ -1,0 +1,6 @@
+{
+  "durbin_watson_retained_rows": 2.135865167743387,
+  "ljung_box_q2_retained_rows": 0.5469170880464479,
+  "pre_fit_n": 16,
+  "pre_fit_df": 9
+}

@@ -1,0 +1,3 @@
+Independent numpy least-squares coefficients and statsmodels full-grid score HAC match all primary coefficients and standard errors to 1e-9.
+Cross-workbook State versus SEIFA national counts and bulk-billed counts agree exactly for 71 shared category-quarters; age and quintile margins reconcile exactly.
+Known-SEIFA coverage: [('2025Q2', "['B']", np.float64(99.37661259850972)), ('2025Q2', "['C', 'D', 'E']", np.float64(99.32744891611709)), ('2026Q2', "['B']", np.float64(99.35432169595188)), ('2026Q2', "['C', 'D', 'E']", np.float64(99.3284715263776))]

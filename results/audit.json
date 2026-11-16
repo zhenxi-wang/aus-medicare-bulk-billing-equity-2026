@@ -1,0 +1,64 @@
+{
+  "source_seifa_rows": 10354,
+  "source_state_rows": 11321,
+  "source_mmm_rows": 10183,
+  "period_min": "2021Q3",
+  "period_max": "2026Q2",
+  "primary_model": {
+    "label": "Primary",
+    "estimate": -2.043305333746498,
+    "se": 0.1609950256993542,
+    "lower": -2.402024605483758,
+    "upper": -1.6845860620092383,
+    "p": 1.7217101511791624e-07,
+    "n_quarters": 18,
+    "df": 10.0,
+    "lag": 4,
+    "r2": 0.9764462453697671
+  },
+  "primary_quarters": 20,
+  "main_total_BCDE_claims": 371277310,
+  "selected_missing_numeric_cells": 0,
+  "quintile_sum_checks": [
+    {
+      "period": "2025Q2",
+      "kind": "B",
+      "quintile_sum_difference": 0.0
+    },
+    {
+      "period": "2025Q2",
+      "kind": "C",
+      "quintile_sum_difference": 0.0
+    },
+    {
+      "period": "2025Q2",
+      "kind": "D",
+      "quintile_sum_difference": 0.0
+    },
+    {
+      "period": "2025Q2",
+      "kind": "E",
+      "quintile_sum_difference": 0.0
+    },
+    {
+      "period": "2026Q2",
+      "kind": "B",
+      "quintile_sum_difference": 0.0
+    },
+    {
+      "period": "2026Q2",
+      "kind": "C",
+      "quintile_sum_difference": 0.0
+    },
+    {
+      "period": "2026Q2",
+      "kind": "D",
+      "quintile_sum_difference": 0.0
+    },
+    {
+      "period": "2026Q2",
+      "kind": "E",
+      "quintile_sum_difference": 0.0
+    }
+  ]
+}

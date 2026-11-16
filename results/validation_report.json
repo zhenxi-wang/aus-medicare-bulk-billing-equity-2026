@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Both analysis-workbook SHA-256 digests verified.",
+    "Independent numpy least-squares coefficients and statsmodels complete-grid HAC agree for all eight coefficients and SEs to 1e-9.",
+    "National State and SEIFA workbook counts and bulk-billed counts agree exactly in all 71 overlapping level-quarters.",
+    "Age margins reconcile exactly with national totals.",
+    "Five quintiles plus unassigned SEIFA reconcile with national counts for all final-period levels.",
+    "Independent historical projections and single-quarter estimates reconcile with the observed post-quarter deviations.",
+    "Length-tier decomposition exactly reconciles to the observed C/D/E coverage change before rounding.",
+    "Five-quintile age-16\u201364 standardisation independently reconstructed from the source-count extract.",
+    "Scenario numerators, denominators and zero-removal coverage reconcile to exact counts."
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "file": "seifa.xlsx",
+    "url": "https://www.health.gov.au/sites/default/files/2026-08/medicare-quarterly-statistics-socio-economic-indexes-for-areas-seifa-summary-march-quarter-2025-26.xlsx",
+    "retrieved_utc": "2026-11-11T14:01:23.174687+00:00",
+    "sha256": "9374cf744e66142ece6d6a27f41b0c7db79e248ab3d0d067ef2ca3748aa41ebd",
+    "bytes": 2454797
+  },
+  {
+    "file": "primary.xlsx",
+    "url": "https://www.health.gov.au/sites/default/files/2026-08/medicare-quarterly-statistics-primary-care-service-type-summary-march-quarter-2025-26.xlsx",
+    "retrieved_utc": "2026-11-11T14:01:24.021153+00:00",
+    "sha256": "dc6ff8d4d95880b8a74e965b7675e8be44d4e56a964fedfd47f75473a34d9f3d",
+    "bytes": 3638434
+  },
+  {
+    "file": "explanatory-notes.pdf",
+    "url": "https://www.health.gov.au/sites/default/files/2026-05/explanatory-notes-for-medicare-statistics_0.pdf",
+    "retrieved_utc": "2026-11-11T14:07:59.871529+00:00",
+    "sha256": "851cc4f345507f307d20312e4d2ddfbdef1a12c50070fc64bd8639fd936add5d",
+    "bytes": 446713
+  },
+  {
+    "file": "better-access-changes.pdf",
+    "url": "https://mbsonline.gov.au/internet/mbsonline/publishing.nsf/650f3eec0dfb990fca25692100069854/a6bbccd4e1519234ca258d0f00120c7e/%24FILE/PDF%20Version%20-%20MBS%20changes%20to%20the%20Better%20Access%20Initiative.pdf",
+    "retrieved_utc": "2026-11-11T14:08:00.723950+00:00",
+    "sha256": "4ab0351111d37150c6f02ebf57fa748c750e9232da6c154e05bb8cba024af5aa",
+    "bytes": 182936
+  },
+  {
+    "file": "RACGP-Health-of-Nation-2026.pdf",
+    "url": "https://www.racgp.org.au/getmedia/03d796d6-2005-42dc-a28c-79d2383d4939/HOTN-2026-Report.pdf.aspx",
+    "retrieved_utc": "2026-11-11T14:08:01.138362+00:00",
+    "sha256": "a9fce21a85edd2e7578549147580c7a9d8a59c2fec73d3d96831049581c4a976",
+    "bytes": 4045237
+  },
+  {
+    "file": "policy-expansion.pdf",
+    "url": "https://www.health.gov.au/sites/default/files/2025-03/budget-2025-26-strengthening-medicare-more-bulk-billing.pdf",
+    "retrieved_utc": "2026-11-11T14:19:50.335524+00:00",
+    "sha256": "e3debad58967e22b76dd25712b76a455110918997a52d1a0d60edc4dfa372d3f",
+    "bytes": 1232138
+  }
+]

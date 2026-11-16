@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+figures/
+data/*.xlsx
+data/*.download
+data/primary_0.csv
+data/primary_1.csv
+data/seifa_0.csv
+data/seifa_definitions.csv
+results/*_clean.csv
